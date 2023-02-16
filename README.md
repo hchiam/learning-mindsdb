@@ -64,7 +64,7 @@ LIMIT 3;
 
 ## Tutorial - predict home rental prices:
 
-Instead of running a local docker image, [create an account](https://cloud.mindsdb.com/login) to run an instance in the cloud.
+Instead of [using pip](https://docs.mindsdb.com/setup/self-hosted/pip/source) or [running a local docker image](https://docs.mindsdb.com/setup/self-hosted/docker), you can [create an account](https://cloud.mindsdb.com/login) to run an instance in the cloud.
 
 Connect demo database `example_db` to `mindsdb`:
 
